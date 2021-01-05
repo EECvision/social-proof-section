@@ -6,7 +6,7 @@ import BuyerSection from './social-proof-section-master/components/buyer/buyer-s
 const App =()=>{
     return(
         <div className="flex flex-col items-center justify-center w-full mt-10">
-            <div className="w-full flex flex-col items-center md:flex-row justify-between mb-12 px-24">
+            <div className="w-full flex flex-col items-center md:flex-row justify-between mb-12 px-6 sm:px-24">
                 <TestimonySection/>
                 <RatingSection/>
             </div>
