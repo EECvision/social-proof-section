@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/social-proof-section/static/css/main.5a5867ae.chunk.css",
+    "main.js": "/social-proof-section/static/js/main.c30074d0.chunk.js",
+    "main.js.map": "/social-proof-section/static/js/main.c30074d0.chunk.js.map",
+    "runtime-main.js": "/social-proof-section/static/js/runtime-main.dea689c6.js",
+    "runtime-main.js.map": "/social-proof-section/static/js/runtime-main.dea689c6.js.map",
+    "static/js/2.b56d82dc.chunk.js": "/social-proof-section/static/js/2.b56d82dc.chunk.js",
+    "static/js/2.b56d82dc.chunk.js.map": "/social-proof-section/static/js/2.b56d82dc.chunk.js.map",
+    "static/js/3.bcc48b22.chunk.js": "/social-proof-section/static/js/3.bcc48b22.chunk.js",
+    "static/js/3.bcc48b22.chunk.js.map": "/social-proof-section/static/js/3.bcc48b22.chunk.js.map",
+    "index.html": "/social-proof-section/index.html",
+    "static/css/main.5a5867ae.chunk.css.map": "/social-proof-section/static/css/main.5a5867ae.chunk.css.map",
+    "static/js/2.b56d82dc.chunk.js.LICENSE.txt": "/social-proof-section/static/js/2.b56d82dc.chunk.js.LICENSE.txt",
+    "static/media/icon-star.2d8e7b7c.svg": "/social-proof-section/static/media/icon-star.2d8e7b7c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dea689c6.js",
+    "static/js/2.b56d82dc.chunk.js",
+    "static/css/main.5a5867ae.chunk.css",
+    "static/js/main.c30074d0.chunk.js"
+  ]
+}
